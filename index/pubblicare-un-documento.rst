@@ -546,8 +546,6 @@ I documenti privati sono raggiungibili dal publisher usando URL predittivi (ad e
 La :numref:`Figura %s <privato>` mostra com’è possibile impostare un documento privato su Docs Italia.
 
 .. figure:: img/private.png
-   :width: 3.86458in
-   :height: 4.5702in
    :alt: Documenti privati
    :name: privato
 
@@ -580,8 +578,6 @@ La :numref:`Figura %s <traduzione>` mostra il backend di Docs Italia relativo al
 Per problemi con la creazione di documenti multilingue è possibile contattare gli amministratori di Docs Italia tramite `Slack di Developers Italia <https://slack.developers.italia.it/>`__ usando il canale `#docs-italia <https://developersitalia.slack.com/messages/C9T4ELD4G/>`__.
 
 .. figure:: img/traduzione.jpg
-   :width: 5.70313in
-   :height: 3.65311in
    :alt: Documenti multilingue
    :name: traduzione
 
