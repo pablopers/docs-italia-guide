@@ -28,8 +28,6 @@ Upload tramite interfaccia grafica
    3. Clicca sul pulsante **Upload files**
    
       .. image:: img/upload.png
-         :width: 3.74479in
-         :height: 0.36363in
    
    4. Clicca su **choose your files** e seleziona tutti i file che intendi caricare
    
@@ -38,8 +36,6 @@ Upload tramite interfaccia grafica
    6. Clicca sul pulsante **Commit changes**
    
       .. image:: img/commit.png
-         :width: 5.14618in
-         :height: 3.50521in
 
 Upload da un repository Git locale
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -57,8 +53,6 @@ Upload da un repository Git locale
    4. Clicca sul pulsante **Copy to clipboard** accanto all’URL del repo
    
       .. image:: img/clone.png
-         :width: 3.50521in
-         :height: 1.52868in
    
    .. role:: procedure-internal-title
       :class: procedure-internal-title
