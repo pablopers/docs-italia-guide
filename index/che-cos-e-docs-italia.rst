@@ -18,8 +18,6 @@ Docs Italia permette di gestire la documentazione tecnica di un progetto (ad es.
 La :numref:`Figura %s <hp>` mostra l’attuale home page di Docs Italia.
 
 .. figure:: img/home-page-docs-italia.png
-   :width: 6.11458in
-   :height: 3.82813in
    :alt: Home page di Docs Italia
    :name: hp
 
@@ -84,8 +82,6 @@ Architettura dell’informazione
 .. 
 .. 
 .. .. figure:: img/progetto.png
-..    :width: 6.11458in
-..    :height: 5.47222in
 ..    :alt: Pagina progetto
 ..    :name: progetto
 ..    
@@ -107,8 +103,6 @@ Ciascun documento ha le seguenti caratteristiche (vedi :numref:`Figura %s <pagin
 5. Il pulsante “modifica su GitHub” permette di accedere al repository su GitHub dove è ospitato il documento e consente a chiunque di proporre delle modifiche al contenuto.
 
 .. figure:: img/pagina-doc.png
-   :width: 6.11458in
-   :height: 4.90278in
    :alt: Pagina documento
    :name: pagina-doc
 
@@ -123,24 +117,18 @@ Oltre a queste caratteristiche,
 -  Le funzionalità dei box colorati e delle note permettono di segnalare informazioni importanti, esempi, casi di studio e interpretazioni del testo (vedi :numref:`Figura %s <box>`).
 
 .. figure:: img/responsive.png
-   :width: 1.78493in
-   :height: 3.59896in
    :alt: Ambiente responsive
    :name: responsive
 
    Ambiente *responsive* della piattaforma Docs Italia.
 
 .. figure:: img/ancora.png
-   :width: 6.11458in
-   :height: 1.97222in
    :alt: Ancora titolo
    :name: ancora
 
    Ancora in corrispondenza di un titolo.
 
 .. figure:: img/box.png
-   :width: 6.11458in
-   :height: 3.25in
    :alt: Box e note
    :name: box
 
