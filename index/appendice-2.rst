@@ -145,7 +145,6 @@ Tutte le figure e le immagini devono essere seguite da opportune didascalie, num
 Un esempio è mostrato in :numref:`Figura %s <logo>`.
 
 .. figure:: img/logo.png
-   :width: 6.11458in
    :alt: Esempio di figura in Docs Italia
    :name: logo
 
